@@ -1,4 +1,3 @@
-# Olá, me chamo Daniele! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 Tenho 25 anos, moro em Salvador/Bahia e estou iniciando na área da programação. Sou curiosa, estou o tempo todo em busca de aprender novas linguagens e desenvolver mais habilidades.
