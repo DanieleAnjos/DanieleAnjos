@@ -1,13 +1,26 @@
-## Bem vindo ao meu perfil GitHub 👋
+# 💜 Olá, eu sou a Daniele!
 
-Tenho 25 anos, moro em Salvador/Bahia e estou iniciando na área da programação. Sou curiosa, estou o tempo todo em busca de aprender novas linguagens e desenvolver mais habilidades.
+Tenho 26 anos, moro em Salvador/Bahia e estou iniciando na área da programação. Sou curiosa, estou o tempo todo em busca de aprender novas linguagens e desenvolver mais habilidades.
 
-## Estou aprendendo
+## Sobre mim
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="40" height="40" /> <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="40" height="40"/>
-          
+- 🖥️ Técnica em Desenvolvimento de Sistemas pelo SENAI CIMATEC
+- 📚 Estudando JavaScript, Node.js, React, e desenvolvimento web
+- 🌍 Estou explorando novas tecnologias e desenvolvendo soluções de software.
+
+---
+### 🚀 Tecnologias e linguagens
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,cpp,java,docker)](https://skillicons.dev)
+
+### 🚀 Frameworks e bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,vite,spring,mysql,postgres)](https://skillicons.dev)
+
+### 🛠️ Ferramentas de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=git,github,figma,vscode,postman)](https://skillicons.dev)
 
 
+## ⭐ GitHub Stats
 <div>
 <a href="https://github.com/DanieleAnjos">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleAnjos&layout=compact&langs_count=7&theme=dracula"/>
